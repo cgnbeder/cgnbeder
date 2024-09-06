@@ -38,7 +38,7 @@ Sexual Crime Rates in Europe & Middle East | Popularity of Motorsports and Finan
 Correlation | NBA EFF Scores and League Outcome Correlation Study | +15 DataCamp Projects
 
 ## 📫 Get in Touch
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/caganbeder/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/caganbeder/)
 - Email: caganeducations@gmail.com
 
 Thanks for visiting my profile!
