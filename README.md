@@ -2,7 +2,7 @@
 
 **Data Analyst | International Relations Graduate**
 
-I'm Emir Çağan Beder, a Gazi University graduate from International Relations. My interest in software began during my sophomore year, leading me to complete Harvard University's Web Programming CS50 course. As I continued to expand my knowledge in both my academic field and software, I realized that data analysis was where my skills and passions intersected.
+I'm Emir Çağan Beder, a Gazi University graduate in International Relations. My interest in software began during my sophomore year, leading me to complete Harvard University's Web Programming CS50 course. As I continued to expand my knowledge in both my academic field and software, I realized that data analysis was where my skills and passions intersected.
 
 By combining the research techniques from my academic background with my growing expertise in data analysis, I found a unique way to approach data-driven challenges with a critical and comprehensive perspective.
 
